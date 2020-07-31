@@ -251,5 +251,183 @@
         "min_path": "./photos\\3 Comics\\suitshoyocomic.min.png"
       }
     ]
+  },
+  {
+    "name": "HP Sakuatsu",
+    "type": "photos",
+    "parents": [
+      "3 Comics",
+      "HP Sakuatsu"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1778,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\1-detention (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\1-detention (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1704,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\4-capture (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\4-capture (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1889,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\6a-room (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\6a-room (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 2154,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\7a-fin (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\7a-fin (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1962,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1651,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\2-b rant (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\2-b rant (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 2151,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\5a-ghosting (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\5a-ghosting (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1375,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\1-cuddle (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\1-cuddle (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 2028,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\1-detention (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\1-detention (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 2126,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (5).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (5).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1442,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\2-a sulk (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\2-a sulk (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1605,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\7a-fin (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\7a-fin (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1728,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\5b-ravenclaws (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\5b-ravenclaws (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1994,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\7b-extras (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\7b-extras (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1632,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\5a-ghosting (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\5a-ghosting (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1657,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 2288,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\4-capture (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\4-capture (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1893,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\2-a sulk (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\2-a sulk (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1888,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\5b-ravenclaws (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\5b-ravenclaws (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 2317,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\2-b rant (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\2-b rant (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1619,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\1-cuddle (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\1-cuddle (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1967,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\6a-room (3).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\6a-room (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1226,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\7b-extras (2).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\7b-extras (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1814,
+        "path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (4).png",
+        "min_path": "./photos\\3 Comics\\HP Sakuatsu\\3-food (4).min.png"
+      }
+    ]
   }
 ]
