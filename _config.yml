@@ -30,6 +30,7 @@ process:
       rotate: 0
 
 instagram: dazzletwig
+twitter: dazzletwig
 
 sass:
   sass_dir: _sass
