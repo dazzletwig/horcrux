@@ -1,18 +1,132 @@
 [
   {
+    "name": "1 Illustrations",
+    "type": "photos",
+    "parents": [
+      "1 Illustrations"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1600,
+        "height": 2000,
+        "path": "./photos\\1 Illustrations\\pokemon kghn.png",
+        "min_path": "./photos\\1 Illustrations\\pokemon kghn.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\fashion2.png",
+        "min_path": "./photos\\1 Illustrations\\fashion2.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\hogwarts suga.png",
+        "min_path": "./photos\\1 Illustrations\\hogwarts suga.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 800,
+        "path": "./photos\\1 Illustrations\\hogwarts yamaguchi.png",
+        "min_path": "./photos\\1 Illustrations\\hogwarts yamaguchi.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\howl oik.png",
+        "min_path": "./photos\\1 Illustrations\\howl oik.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\moon haute couture.png",
+        "min_path": "./photos\\1 Illustrations\\moon haute couture.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1600,
+        "height": 1600,
+        "path": "./photos\\1 Illustrations\\oik milotic.png",
+        "min_path": "./photos\\1 Illustrations\\oik milotic.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1600,
+        "path": "./photos\\1 Illustrations\\pokemon suga.png",
+        "min_path": "./photos\\1 Illustrations\\pokemon suga.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\ravenclaw akaashi.png",
+        "min_path": "./photos\\1 Illustrations\\ravenclaw akaashi.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 600,
+        "path": "./photos\\1 Illustrations\\rising tides.png",
+        "min_path": "./photos\\1 Illustrations\\rising tides.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 2000,
+        "height": 2400,
+        "path": "./photos\\1 Illustrations\\sakusa sherlock.png",
+        "min_path": "./photos\\1 Illustrations\\sakusa sherlock.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\string theory bokuaka.png",
+        "min_path": "./photos\\1 Illustrations\\string theory bokuaka.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 800,
+        "path": "./photos\\1 Illustrations\\study.png",
+        "min_path": "./photos\\1 Illustrations\\study.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 3000,
+        "height": 2100,
+        "path": "./photos\\1 Illustrations\\suitshoyo.png",
+        "min_path": "./photos\\1 Illustrations\\suitshoyo.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 2250,
+        "height": 1688,
+        "path": "./photos\\1 Illustrations\\svt left and right.png",
+        "min_path": "./photos\\1 Illustrations\\svt left and right.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1600,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.png",
+        "min_path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.min.png"
+      }
+    ]
+  },
+  {
     "name": "2 Sketches",
     "type": "photos",
     "parents": [
       "2 Sketches"
     ],
     "list": [
-      {
-        "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\2 Sketches\\tonguetsumu.png",
-        "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
-      },
       {
         "type": "photo",
         "width": 1200,
@@ -29,10 +143,24 @@
       },
       {
         "type": "photo",
-        "width": 1200,
-        "height": 1600,
-        "path": "./photos\\2 Sketches\\komori bday.png",
-        "min_path": "./photos\\2 Sketches\\komori bday.min.png"
+        "width": 1236,
+        "height": 894,
+        "path": "./photos\\2 Sketches\\pokemon sketches (2).png",
+        "min_path": "./photos\\2 Sketches\\pokemon sketches (2).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1452,
+        "height": 1012,
+        "path": "./photos\\2 Sketches\\pokemon sketches (3).png",
+        "min_path": "./photos\\2 Sketches\\pokemon sketches (3).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1556,
+        "height": 1189,
+        "path": "./photos\\2 Sketches\\pokemon sketches (4).png",
+        "min_path": "./photos\\2 Sketches\\pokemon sketches (4).min.png"
       },
       {
         "type": "photo",
@@ -43,10 +171,10 @@
       },
       {
         "type": "photo",
-        "width": 640,
-        "height": 640,
-        "path": "./photos\\2 Sketches\\kids2.min.png",
-        "min_path": "./photos\\2 Sketches\\kids2.min.min.png"
+        "width": 1000,
+        "height": 1000,
+        "path": "./photos\\2 Sketches\\airbender komori.png",
+        "min_path": "./photos\\2 Sketches\\airbender komori.min.png"
       },
       {
         "type": "photo",
@@ -57,124 +185,54 @@
       },
       {
         "type": "photo",
-        "width": 1000,
-        "height": 1000,
-        "path": "./photos\\2 Sketches\\airbender komori.png",
-        "min_path": "./photos\\2 Sketches\\airbender komori.min.png"
+        "width": 1200,
+        "height": 1600,
+        "path": "./photos\\2 Sketches\\komori bday.png",
+        "min_path": "./photos\\2 Sketches\\komori bday.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\tonguetsumu.png",
+        "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
       }
     ]
   },
   {
-    "name": "1 Illustrations",
+    "name": "3 Comics",
     "type": "photos",
     "parents": [
-      "1 Illustrations"
+      "3 Comics"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1600,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.png",
-        "min_path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.min.png"
+        "width": 1200,
+        "height": 800,
+        "path": "./photos\\3 Comics\\sendai frogs.png",
+        "min_path": "./photos\\3 Comics\\sendai frogs.min.png"
       },
       {
         "type": "photo",
-        "width": 2250,
-        "height": 1688,
-        "path": "./photos\\1 Illustrations\\svt left and right.png",
-        "min_path": "./photos\\1 Illustrations\\svt left and right.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 3000,
-        "height": 2100,
-        "path": "./photos\\1 Illustrations\\suitshoyo.png",
-        "min_path": "./photos\\1 Illustrations\\suitshoyo.min.png"
+        "width": 400,
+        "height": 1500,
+        "path": "./photos\\3 Comics\\correct ba.png",
+        "min_path": "./photos\\3 Comics\\correct ba.min.png"
       },
       {
         "type": "photo",
         "width": 800,
         "height": 800,
-        "path": "./photos\\1 Illustrations\\study.png",
-        "min_path": "./photos\\1 Illustrations\\study.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 800,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\string theory bokuaka.png",
-        "min_path": "./photos\\1 Illustrations\\string theory bokuaka.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 2000,
-        "height": 2400,
-        "path": "./photos\\1 Illustrations\\sakusa sherlock.png",
-        "min_path": "./photos\\1 Illustrations\\sakusa sherlock.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 800,
-        "height": 600,
-        "path": "./photos\\1 Illustrations\\rising tides.png",
-        "min_path": "./photos\\1 Illustrations\\rising tides.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\ravenclaw akaashi.png",
-        "min_path": "./photos\\1 Illustrations\\ravenclaw akaashi.min.png"
+        "path": "./photos\\3 Comics\\ushiken.png",
+        "min_path": "./photos\\3 Comics\\ushiken.min.png"
       },
       {
         "type": "photo",
         "width": 1200,
         "height": 1600,
-        "path": "./photos\\1 Illustrations\\pokemon suga.png",
-        "min_path": "./photos\\1 Illustrations\\pokemon suga.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1600,
-        "height": 1600,
-        "path": "./photos\\1 Illustrations\\oik milotic.png",
-        "min_path": "./photos\\1 Illustrations\\oik milotic.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 800,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\moon haute couture.png",
-        "min_path": "./photos\\1 Illustrations\\moon haute couture.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\howl oik.png",
-        "min_path": "./photos\\1 Illustrations\\howl oik.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 800,
-        "height": 800,
-        "path": "./photos\\1 Illustrations\\hogwarts yamaguchi.png",
-        "min_path": "./photos\\1 Illustrations\\hogwarts yamaguchi.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\hogwarts suga.png",
-        "min_path": "./photos\\1 Illustrations\\hogwarts suga.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\fashion2.png",
-        "min_path": "./photos\\1 Illustrations\\fashion2.min.png"
+        "path": "./photos\\3 Comics\\suitshoyocomic.png",
+        "min_path": "./photos\\3 Comics\\suitshoyocomic.min.png"
       }
     ]
   }

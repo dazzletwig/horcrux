@@ -5,10 +5,21 @@
   "parents": [],
   "items": {
     "order": [
+      "1 Illustrations",
       "2 Sketches",
-      "1 Illustrations"
+      "3 Comics"
     ],
     "dict": {
+      "1 Illustrations": {
+        "name": "1 Illustrations",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "1 Illustrations"
+        ],
+        "path": "./_data\\albums\\1 Illustrations.json",
+        "no_sub_album": true
+      },
       "2 Sketches": {
         "name": "2 Sketches",
         "type": "album",
@@ -19,14 +30,14 @@
         "path": "./_data\\albums\\2 Sketches.json",
         "no_sub_album": true
       },
-      "1 Illustrations": {
-        "name": "1 Illustrations",
+      "3 Comics": {
+        "name": "3 Comics",
         "type": "album",
         "root": 1,
         "parents": [
-          "1 Illustrations"
+          "3 Comics"
         ],
-        "path": "./_data\\albums\\1 Illustrations.json",
+        "path": "./_data\\albums\\3 Comics.json",
         "no_sub_album": true
       }
     }

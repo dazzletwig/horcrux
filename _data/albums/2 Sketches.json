@@ -1,22 +1,17 @@
 {
   "order": [
-    "tonguetsumu.png",
     "mentors and rivals.png",
     "mastuhana greek.png",
-    "komori bday.png",
+    "pokemon sketches (2).png",
+    "pokemon sketches (3).png",
+    "pokemon sketches (4).png",
     "kids2.png",
-    "kids2.min.png",
+    "airbender komori.png",
     "avatar u19 (Large).png",
-    "airbender komori.png"
+    "komori bday.png",
+    "tonguetsumu.png"
   ],
   "dict": {
-    "tonguetsumu.png": {
-      "type": "photo",
-      "width": 1200,
-      "height": 1200,
-      "path": "./photos\\2 Sketches\\tonguetsumu.png",
-      "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
-    },
     "mentors and rivals.png": {
       "type": "photo",
       "width": 1200,
@@ -31,12 +26,26 @@
       "path": "./photos\\2 Sketches\\mastuhana greek.png",
       "min_path": "./photos\\2 Sketches\\mastuhana greek.min.png"
     },
-    "komori bday.png": {
+    "pokemon sketches (2).png": {
       "type": "photo",
-      "width": 1200,
-      "height": 1600,
-      "path": "./photos\\2 Sketches\\komori bday.png",
-      "min_path": "./photos\\2 Sketches\\komori bday.min.png"
+      "width": 1236,
+      "height": 894,
+      "path": "./photos\\2 Sketches\\pokemon sketches (2).png",
+      "min_path": "./photos\\2 Sketches\\pokemon sketches (2).min.png"
+    },
+    "pokemon sketches (3).png": {
+      "type": "photo",
+      "width": 1452,
+      "height": 1012,
+      "path": "./photos\\2 Sketches\\pokemon sketches (3).png",
+      "min_path": "./photos\\2 Sketches\\pokemon sketches (3).min.png"
+    },
+    "pokemon sketches (4).png": {
+      "type": "photo",
+      "width": 1556,
+      "height": 1189,
+      "path": "./photos\\2 Sketches\\pokemon sketches (4).png",
+      "min_path": "./photos\\2 Sketches\\pokemon sketches (4).min.png"
     },
     "kids2.png": {
       "type": "photo",
@@ -45,12 +54,12 @@
       "path": "./photos\\2 Sketches\\kids2.png",
       "min_path": "./photos\\2 Sketches\\kids2.min.png"
     },
-    "kids2.min.png": {
+    "airbender komori.png": {
       "type": "photo",
-      "width": 640,
-      "height": 640,
-      "path": "./photos\\2 Sketches\\kids2.min.png",
-      "min_path": "./photos\\2 Sketches\\kids2.min.min.png"
+      "width": 1000,
+      "height": 1000,
+      "path": "./photos\\2 Sketches\\airbender komori.png",
+      "min_path": "./photos\\2 Sketches\\airbender komori.min.png"
     },
     "avatar u19 (Large).png": {
       "type": "photo",
@@ -59,12 +68,19 @@
       "path": "./photos\\2 Sketches\\avatar u19 (Large).png",
       "min_path": "./photos\\2 Sketches\\avatar u19 (Large).min.png"
     },
-    "airbender komori.png": {
+    "komori bday.png": {
       "type": "photo",
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos\\2 Sketches\\airbender komori.png",
-      "min_path": "./photos\\2 Sketches\\airbender komori.min.png"
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos\\2 Sketches\\komori bday.png",
+      "min_path": "./photos\\2 Sketches\\komori bday.min.png"
+    },
+    "tonguetsumu.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\tonguetsumu.png",
+      "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
     }
   }
 }

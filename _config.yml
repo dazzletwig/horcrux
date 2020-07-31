@@ -2,9 +2,9 @@ name: dazzletwig
 
 frame_padding: 10px
 
-column: 3
-column_gap: 30px
-row_gap: 30px
+column: 4
+column_gap: 10px
+row_gap: 10px
 
 small_screen:
   column: 2
@@ -12,13 +12,13 @@ small_screen:
   row_gap: 10px
 
 process:
-  keep_order: True
+  keep_order: False
   album:
-    sort_by_time: True # False: sort by filename
+    sort_by_time: False # False: sort by filename
     order_by: create # access, modify
-    reverse: True
+    reverse: False
   photo:
-    sort_by_time: False
+    sort_by_time: True
     order_by: modify
     reverse: True
     min_width: 600

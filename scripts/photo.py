@@ -16,7 +16,7 @@ class Photo():
     
     @property
     def is_min(self):
-        return self.path.match('*.min.jpg')
+        return self.path.match('*.min.*')
     
     @property
     def has_min(self):

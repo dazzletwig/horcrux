@@ -1,0 +1,38 @@
+{
+  "order": [
+    "sendai frogs.png",
+    "correct ba.png",
+    "ushiken.png",
+    "suitshoyocomic.png"
+  ],
+  "dict": {
+    "sendai frogs.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 800,
+      "path": "./photos\\3 Comics\\sendai frogs.png",
+      "min_path": "./photos\\3 Comics\\sendai frogs.min.png"
+    },
+    "correct ba.png": {
+      "type": "photo",
+      "width": 400,
+      "height": 1500,
+      "path": "./photos\\3 Comics\\correct ba.png",
+      "min_path": "./photos\\3 Comics\\correct ba.min.png"
+    },
+    "ushiken.png": {
+      "type": "photo",
+      "width": 800,
+      "height": 800,
+      "path": "./photos\\3 Comics\\ushiken.png",
+      "min_path": "./photos\\3 Comics\\ushiken.min.png"
+    },
+    "suitshoyocomic.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos\\3 Comics\\suitshoyocomic.png",
+      "min_path": "./photos\\3 Comics\\suitshoyocomic.min.png"
+    }
+  }
+}
