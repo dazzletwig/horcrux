@@ -1,0 +1,126 @@
+{
+  "order": [
+    "witcher sakusa tavern 1.png",
+    "svt left and right.png",
+    "suitshoyo.png",
+    "study.png",
+    "string theory bokuaka.png",
+    "sakusa sherlock.png",
+    "rising tides.png",
+    "ravenclaw akaashi.png",
+    "pokemon suga.png",
+    "oik milotic.png",
+    "moon haute couture.png",
+    "howl oik.png",
+    "hogwarts yamaguchi.png",
+    "hogwarts suga.png",
+    "fashion2.png"
+  ],
+  "dict": {
+    "witcher sakusa tavern 1.png": {
+      "type": "photo",
+      "width": 1600,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.png",
+      "min_path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.min.png"
+    },
+    "svt left and right.png": {
+      "type": "photo",
+      "width": 2250,
+      "height": 1688,
+      "path": "./photos\\1 Illustrations\\svt left and right.png",
+      "min_path": "./photos\\1 Illustrations\\svt left and right.min.png"
+    },
+    "suitshoyo.png": {
+      "type": "photo",
+      "width": 3000,
+      "height": 2100,
+      "path": "./photos\\1 Illustrations\\suitshoyo.png",
+      "min_path": "./photos\\1 Illustrations\\suitshoyo.min.png"
+    },
+    "study.png": {
+      "type": "photo",
+      "width": 800,
+      "height": 800,
+      "path": "./photos\\1 Illustrations\\study.png",
+      "min_path": "./photos\\1 Illustrations\\study.min.png"
+    },
+    "string theory bokuaka.png": {
+      "type": "photo",
+      "width": 800,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\string theory bokuaka.png",
+      "min_path": "./photos\\1 Illustrations\\string theory bokuaka.min.png"
+    },
+    "sakusa sherlock.png": {
+      "type": "photo",
+      "width": 2000,
+      "height": 2400,
+      "path": "./photos\\1 Illustrations\\sakusa sherlock.png",
+      "min_path": "./photos\\1 Illustrations\\sakusa sherlock.min.png"
+    },
+    "rising tides.png": {
+      "type": "photo",
+      "width": 800,
+      "height": 600,
+      "path": "./photos\\1 Illustrations\\rising tides.png",
+      "min_path": "./photos\\1 Illustrations\\rising tides.min.png"
+    },
+    "ravenclaw akaashi.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\ravenclaw akaashi.png",
+      "min_path": "./photos\\1 Illustrations\\ravenclaw akaashi.min.png"
+    },
+    "pokemon suga.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos\\1 Illustrations\\pokemon suga.png",
+      "min_path": "./photos\\1 Illustrations\\pokemon suga.min.png"
+    },
+    "oik milotic.png": {
+      "type": "photo",
+      "width": 1600,
+      "height": 1600,
+      "path": "./photos\\1 Illustrations\\oik milotic.png",
+      "min_path": "./photos\\1 Illustrations\\oik milotic.min.png"
+    },
+    "moon haute couture.png": {
+      "type": "photo",
+      "width": 800,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\moon haute couture.png",
+      "min_path": "./photos\\1 Illustrations\\moon haute couture.min.png"
+    },
+    "howl oik.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\howl oik.png",
+      "min_path": "./photos\\1 Illustrations\\howl oik.min.png"
+    },
+    "hogwarts yamaguchi.png": {
+      "type": "photo",
+      "width": 800,
+      "height": 800,
+      "path": "./photos\\1 Illustrations\\hogwarts yamaguchi.png",
+      "min_path": "./photos\\1 Illustrations\\hogwarts yamaguchi.min.png"
+    },
+    "hogwarts suga.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\hogwarts suga.png",
+      "min_path": "./photos\\1 Illustrations\\hogwarts suga.min.png"
+    },
+    "fashion2.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\1 Illustrations\\fashion2.png",
+      "min_path": "./photos\\1 Illustrations\\fashion2.min.png"
+    }
+  }
+}

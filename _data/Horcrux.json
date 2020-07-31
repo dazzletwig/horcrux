@@ -5,78 +5,29 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2 Sketches",
+      "1 Illustrations"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "2 Sketches": {
+        "name": "2 Sketches",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "2 Sketches"
         ],
-        "items": {
-          "order": [
-            "Hokkaido December"
-          ],
-          "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2018",
-                "Hokkaido December"
-              ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
-              "no_sub_album": true
-            }
-          }
-        }
+        "path": "./_data\\albums\\2 Sketches.json",
+        "no_sub_album": true
       },
-      "2019": {
-        "name": "2019",
+      "1 Illustrations": {
+        "name": "1 Illustrations",
         "type": "album",
         "root": 1,
         "parents": [
-          "2019"
+          "1 Illustrations"
         ],
-        "items": {
-          "order": [
-            "August"
-          ],
-          "dict": {
-            "August": {
-              "name": "August",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2019",
-                "August"
-              ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2019-August-Street.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            }
-          }
-        }
+        "path": "./_data\\albums\\1 Illustrations.json",
+        "no_sub_album": true
       }
     }
   }

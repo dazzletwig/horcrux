@@ -1,0 +1,70 @@
+{
+  "order": [
+    "tonguetsumu.png",
+    "mentors and rivals.png",
+    "mastuhana greek.png",
+    "komori bday.png",
+    "kids2.png",
+    "kids2.min.png",
+    "avatar u19 (Large).png",
+    "airbender komori.png"
+  ],
+  "dict": {
+    "tonguetsumu.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\tonguetsumu.png",
+      "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
+    },
+    "mentors and rivals.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\mentors and rivals.png",
+      "min_path": "./photos\\2 Sketches\\mentors and rivals.min.png"
+    },
+    "mastuhana greek.png": {
+      "type": "photo",
+      "width": 1800,
+      "height": 1800,
+      "path": "./photos\\2 Sketches\\mastuhana greek.png",
+      "min_path": "./photos\\2 Sketches\\mastuhana greek.min.png"
+    },
+    "komori bday.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos\\2 Sketches\\komori bday.png",
+      "min_path": "./photos\\2 Sketches\\komori bday.min.png"
+    },
+    "kids2.png": {
+      "type": "photo",
+      "width": 1800,
+      "height": 1800,
+      "path": "./photos\\2 Sketches\\kids2.png",
+      "min_path": "./photos\\2 Sketches\\kids2.min.png"
+    },
+    "kids2.min.png": {
+      "type": "photo",
+      "width": 640,
+      "height": 640,
+      "path": "./photos\\2 Sketches\\kids2.min.png",
+      "min_path": "./photos\\2 Sketches\\kids2.min.min.png"
+    },
+    "avatar u19 (Large).png": {
+      "type": "photo",
+      "width": 1080,
+      "height": 1080,
+      "path": "./photos\\2 Sketches\\avatar u19 (Large).png",
+      "min_path": "./photos\\2 Sketches\\avatar u19 (Large).min.png"
+    },
+    "airbender komori.png": {
+      "type": "photo",
+      "width": 1000,
+      "height": 1000,
+      "path": "./photos\\2 Sketches\\airbender komori.png",
+      "min_path": "./photos\\2 Sketches\\airbender komori.min.png"
+    }
+  }
+}

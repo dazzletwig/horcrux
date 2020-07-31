@@ -1,106 +1,180 @@
 [
   {
-    "name": "Street",
+    "name": "2 Sketches",
     "type": "photos",
     "parents": [
-      "2019",
-      "August",
-      "Street"
+      "2 Sketches"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/12.jpg",
-        "min_path": "./photos/2019/August/Street/12.min.jpg"
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\tonguetsumu.png",
+        "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/10.jpg",
-        "min_path": "./photos/2019/August/Street/10.min.jpg"
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\mentors and rivals.png",
+        "min_path": "./photos\\2 Sketches\\mentors and rivals.min.png"
       },
       {
         "type": "photo",
-        "width": 3393,
-        "height": 5089,
-        "path": "./photos/2019/August/Street/08.jpg",
-        "min_path": "./photos/2019/August/Street/08.min.jpg"
+        "width": 1800,
+        "height": 1800,
+        "path": "./photos\\2 Sketches\\mastuhana greek.png",
+        "min_path": "./photos\\2 Sketches\\mastuhana greek.min.png"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/07.jpg",
-        "min_path": "./photos/2019/August/Street/07.min.jpg"
+        "width": 1200,
+        "height": 1600,
+        "path": "./photos\\2 Sketches\\komori bday.png",
+        "min_path": "./photos\\2 Sketches\\komori bday.min.png"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1276,
-        "path": "./photos/2019/August/Street/05.jpg",
-        "min_path": "./photos/2019/August/Street/05.min.jpg"
+        "width": 1800,
+        "height": 1800,
+        "path": "./photos\\2 Sketches\\kids2.png",
+        "min_path": "./photos\\2 Sketches\\kids2.min.png"
       },
       {
         "type": "photo",
-        "width": 850,
-        "height": 1275,
-        "path": "./photos/2019/August/Street/04.jpg",
-        "min_path": "./photos/2019/August/Street/04.min.jpg"
+        "width": 640,
+        "height": 640,
+        "path": "./photos\\2 Sketches\\kids2.min.png",
+        "min_path": "./photos\\2 Sketches\\kids2.min.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1080,
+        "height": 1080,
+        "path": "./photos\\2 Sketches\\avatar u19 (Large).png",
+        "min_path": "./photos\\2 Sketches\\avatar u19 (Large).min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1000,
+        "height": 1000,
+        "path": "./photos\\2 Sketches\\airbender komori.png",
+        "min_path": "./photos\\2 Sketches\\airbender komori.min.png"
       }
     ]
   },
   {
-    "name": "Hokkaido December",
+    "name": "1 Illustrations",
     "type": "photos",
     "parents": [
-      "2018",
-      "Hokkaido December"
+      "1 Illustrations"
     ],
     "list": [
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1133,
-        "path": "./photos/2018/Hokkaido December/13.jpg",
-        "min_path": "./photos/2018/Hokkaido December/13.min.jpg"
+        "width": 1600,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.png",
+        "min_path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.min.png"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 983,
-        "path": "./photos/2018/Hokkaido December/08.jpg",
-        "min_path": "./photos/2018/Hokkaido December/08.min.jpg"
+        "width": 2250,
+        "height": 1688,
+        "path": "./photos\\1 Illustrations\\svt left and right.png",
+        "min_path": "./photos\\1 Illustrations\\svt left and right.min.png"
       },
       {
         "type": "photo",
-        "width": 4344,
-        "height": 2897,
-        "path": "./photos/2018/Hokkaido December/07.jpg",
-        "min_path": "./photos/2018/Hokkaido December/07.min.jpg"
+        "width": 3000,
+        "height": 2100,
+        "path": "./photos\\1 Illustrations\\suitshoyo.png",
+        "min_path": "./photos\\1 Illustrations\\suitshoyo.min.png"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1134,
-        "path": "./photos/2018/Hokkaido December/05.jpg",
-        "min_path": "./photos/2018/Hokkaido December/05.min.jpg"
+        "width": 800,
+        "height": 800,
+        "path": "./photos\\1 Illustrations\\study.png",
+        "min_path": "./photos\\1 Illustrations\\study.min.png"
       },
       {
         "type": "photo",
-        "width": 4806,
-        "height": 3201,
-        "path": "./photos/2018/Hokkaido December/04.jpg",
-        "min_path": "./photos/2018/Hokkaido December/04.min.jpg"
+        "width": 800,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\string theory bokuaka.png",
+        "min_path": "./photos\\1 Illustrations\\string theory bokuaka.min.png"
       },
       {
         "type": "photo",
-        "width": 1701,
-        "height": 1122,
-        "path": "./photos/2018/Hokkaido December/01.jpg",
-        "min_path": "./photos/2018/Hokkaido December/01.min.jpg"
+        "width": 2000,
+        "height": 2400,
+        "path": "./photos\\1 Illustrations\\sakusa sherlock.png",
+        "min_path": "./photos\\1 Illustrations\\sakusa sherlock.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 600,
+        "path": "./photos\\1 Illustrations\\rising tides.png",
+        "min_path": "./photos\\1 Illustrations\\rising tides.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\ravenclaw akaashi.png",
+        "min_path": "./photos\\1 Illustrations\\ravenclaw akaashi.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1600,
+        "path": "./photos\\1 Illustrations\\pokemon suga.png",
+        "min_path": "./photos\\1 Illustrations\\pokemon suga.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1600,
+        "height": 1600,
+        "path": "./photos\\1 Illustrations\\oik milotic.png",
+        "min_path": "./photos\\1 Illustrations\\oik milotic.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\moon haute couture.png",
+        "min_path": "./photos\\1 Illustrations\\moon haute couture.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\howl oik.png",
+        "min_path": "./photos\\1 Illustrations\\howl oik.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 800,
+        "height": 800,
+        "path": "./photos\\1 Illustrations\\hogwarts yamaguchi.png",
+        "min_path": "./photos\\1 Illustrations\\hogwarts yamaguchi.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\hogwarts suga.png",
+        "min_path": "./photos\\1 Illustrations\\hogwarts suga.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\fashion2.png",
+        "min_path": "./photos\\1 Illustrations\\fashion2.min.png"
       }
     ]
   }
