@@ -19,6 +19,7 @@
       }
     </style>
     <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: site.baseurl }}">
+    <link rel="shortcut icon" href="http://yourwebsitepath/favicon.ico" />
     <SCRIPT TYPE="text/javascript"> 
       //Disable right click script 
       //visit http://www.rainbow.arch.scriptmania.com/scripts/ 
@@ -37,21 +38,8 @@
     {%- include header.html -%}
     <div class="gallary">
       <h1>{{ site.name }}</h1>
-      
-      <h2>0 Introductions</h2>
-      <p>Welcome! Feel free to call me by any permutation of the words in my username. This is a copy of my portfolio with full-size images. I'm rather a talkative person! To see what I have to say about some of my pieces, it's best to look at instagram.</p>
-
-      <p>
-      <a href="https://www.twitter.com/{{ site.twitter }}/">
-      My Twitter </a> | 
-      <a href="https://www.instagram.com/{{ site.instagram }}/">
-      My Instagram </a> | 
-      <a href="https://archiveofourown.org/users/{{ site.ao3 }}/">
-      My AO3 </a> | 
-      <a href="https://https://curiouscat.qa/{{ site.curiouscat }}/">
-      My CuriousCat </a>
-      </p>
       {%- assign albums = site.data.config -%}
+      {%- include intro.html -%}
       {%- include album.html -%}
     </div>
     {%- include footer.html -%}

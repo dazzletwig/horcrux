@@ -5,7 +5,7 @@
     "mentors and rivals.png",
     "pokemon sketches (3).png",
     "pokemon sketches (4).png",
-    "kids2.png",
+    "howl oik.png",
     "airbender komori.png",
     "avatar u19 (Large).png"
   ],
@@ -45,12 +45,12 @@
       "path": "./photos\\2 Sketches\\pokemon sketches (4).png",
       "min_path": "./photos\\2 Sketches\\pokemon sketches (4).min.png"
     },
-    "kids2.png": {
+    "howl oik.png": {
       "type": "photo",
-      "width": 1800,
-      "height": 1800,
-      "path": "./photos\\2 Sketches\\kids2.png",
-      "min_path": "./photos\\2 Sketches\\kids2.min.png"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\howl oik.png",
+      "min_path": "./photos\\2 Sketches\\howl oik.min.png"
     },
     "airbender komori.png": {
       "type": "photo",

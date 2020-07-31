@@ -1,11 +1,19 @@
 {
   "order": [
+    "snow fairy.png",
     "sendai frogs.png",
     "correct ba.png",
     "ushiken.png",
     "suitshoyocomic.png"
   ],
   "dict": {
+    "snow fairy.png": {
+      "type": "photo",
+      "width": 940,
+      "height": 7200,
+      "path": "./photos\\3 Comics\\snow fairy.png",
+      "min_path": "./photos\\3 Comics\\snow fairy.min.png"
+    },
     "sendai frogs.png": {
       "type": "photo",
       "width": 1200,

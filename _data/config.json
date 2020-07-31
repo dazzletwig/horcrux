@@ -73,13 +73,6 @@
       },
       {
         "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\howl oik.png",
-        "min_path": "./photos\\1 Illustrations\\howl oik.min.png"
-      },
-      {
-        "type": "photo",
         "width": 800,
         "height": 1200,
         "path": "./photos\\1 Illustrations\\moon haute couture.png",
@@ -194,10 +187,10 @@
       },
       {
         "type": "photo",
-        "width": 1800,
-        "height": 1800,
-        "path": "./photos\\2 Sketches\\kids2.png",
-        "min_path": "./photos\\2 Sketches\\kids2.min.png"
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\howl oik.png",
+        "min_path": "./photos\\2 Sketches\\howl oik.min.png"
       },
       {
         "type": "photo",
@@ -222,6 +215,13 @@
       "3 Comics"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 940,
+        "height": 7200,
+        "path": "./photos\\3 Comics\\snow fairy.png",
+        "min_path": "./photos\\3 Comics\\snow fairy.min.png"
+      },
       {
         "type": "photo",
         "width": 1200,
