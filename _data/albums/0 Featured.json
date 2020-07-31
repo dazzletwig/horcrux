@@ -1,7 +1,8 @@
 {
   "order": [
     "komori bday.png",
-    "tonguetsumu.png"
+    "tonguetsumu.png",
+    "svt left and right.png"
   ],
   "dict": {
     "komori bday.png": {
@@ -17,6 +18,13 @@
       "height": 1200,
       "path": "./photos\\0 Featured\\tonguetsumu.png",
       "min_path": "./photos\\0 Featured\\tonguetsumu.min.png"
+    },
+    "svt left and right.png": {
+      "type": "photo",
+      "width": 2250,
+      "height": 1688,
+      "path": "./photos\\0 Featured\\svt left and right.png",
+      "min_path": "./photos\\0 Featured\\svt left and right.min.png"
     }
   }
 }

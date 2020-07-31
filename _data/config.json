@@ -19,6 +19,13 @@
         "height": 1200,
         "path": "./photos\\0 Featured\\tonguetsumu.png",
         "min_path": "./photos\\0 Featured\\tonguetsumu.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 2250,
+        "height": 1688,
+        "path": "./photos\\0 Featured\\svt left and right.png",
+        "min_path": "./photos\\0 Featured\\svt left and right.min.png"
       }
     ]
   },
@@ -29,6 +36,13 @@
       "1 Illustrations"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 2250,
+        "height": 1688,
+        "path": "./photos\\1 Illustrations\\svt left and right.png",
+        "min_path": "./photos\\1 Illustrations\\svt left and right.min.png"
+      },
       {
         "type": "photo",
         "width": 1600,
@@ -126,13 +140,6 @@
         "height": 2100,
         "path": "./photos\\1 Illustrations\\suitshoyo.png",
         "min_path": "./photos\\1 Illustrations\\suitshoyo.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 2250,
-        "height": 1688,
-        "path": "./photos\\1 Illustrations\\svt left and right.png",
-        "min_path": "./photos\\1 Illustrations\\svt left and right.min.png"
       },
       {
         "type": "photo",

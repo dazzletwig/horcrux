@@ -17,7 +17,7 @@ copyright = '@Soyaine'
 fontsize = 40
 fontfamily = 'Eczar-Medium.ttf'
 watermark_rotate = 0
-SIGN_THUMBNAIL = False
+SIGN_THUMBNAIL = True
 SIGN_ORIGINAL = True
 
 SORT_ALBUMS_BY_TIME = True
