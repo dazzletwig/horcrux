@@ -1,23 +1,21 @@
 {
   "order": [
-    "mentors and rivals.png",
-    "mastuhana greek.png",
     "pokemon sketches (2).png",
+    "mastuhana greek.png",
+    "mentors and rivals.png",
     "pokemon sketches (3).png",
     "pokemon sketches (4).png",
     "kids2.png",
     "airbender komori.png",
-    "avatar u19 (Large).png",
-    "komori bday.png",
-    "tonguetsumu.png"
+    "avatar u19 (Large).png"
   ],
   "dict": {
-    "mentors and rivals.png": {
+    "pokemon sketches (2).png": {
       "type": "photo",
-      "width": 1200,
-      "height": 1200,
-      "path": "./photos\\2 Sketches\\mentors and rivals.png",
-      "min_path": "./photos\\2 Sketches\\mentors and rivals.min.png"
+      "width": 1236,
+      "height": 894,
+      "path": "./photos\\2 Sketches\\pokemon sketches (2).png",
+      "min_path": "./photos\\2 Sketches\\pokemon sketches (2).min.png"
     },
     "mastuhana greek.png": {
       "type": "photo",
@@ -26,12 +24,12 @@
       "path": "./photos\\2 Sketches\\mastuhana greek.png",
       "min_path": "./photos\\2 Sketches\\mastuhana greek.min.png"
     },
-    "pokemon sketches (2).png": {
+    "mentors and rivals.png": {
       "type": "photo",
-      "width": 1236,
-      "height": 894,
-      "path": "./photos\\2 Sketches\\pokemon sketches (2).png",
-      "min_path": "./photos\\2 Sketches\\pokemon sketches (2).min.png"
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\mentors and rivals.png",
+      "min_path": "./photos\\2 Sketches\\mentors and rivals.min.png"
     },
     "pokemon sketches (3).png": {
       "type": "photo",
@@ -67,20 +65,6 @@
       "height": 1080,
       "path": "./photos\\2 Sketches\\avatar u19 (Large).png",
       "min_path": "./photos\\2 Sketches\\avatar u19 (Large).min.png"
-    },
-    "komori bday.png": {
-      "type": "photo",
-      "width": 1200,
-      "height": 1600,
-      "path": "./photos\\2 Sketches\\komori bday.png",
-      "min_path": "./photos\\2 Sketches\\komori bday.min.png"
-    },
-    "tonguetsumu.png": {
-      "type": "photo",
-      "width": 1200,
-      "height": 1200,
-      "path": "./photos\\2 Sketches\\tonguetsumu.png",
-      "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
     }
   }
 }

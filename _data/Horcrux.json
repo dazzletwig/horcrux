@@ -5,11 +5,22 @@
   "parents": [],
   "items": {
     "order": [
+      "0 Featured",
       "1 Illustrations",
       "2 Sketches",
       "3 Comics"
     ],
     "dict": {
+      "0 Featured": {
+        "name": "0 Featured",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "0 Featured"
+        ],
+        "path": "./_data\\albums\\0 Featured.json",
+        "no_sub_album": true
+      },
       "1 Illustrations": {
         "name": "1 Illustrations",
         "type": "album",

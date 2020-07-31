@@ -1,0 +1,22 @@
+{
+  "order": [
+    "komori bday.png",
+    "tonguetsumu.png"
+  ],
+  "dict": {
+    "komori bday.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos\\0 Featured\\komori bday.png",
+      "min_path": "./photos\\0 Featured\\komori bday.min.png"
+    },
+    "tonguetsumu.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\0 Featured\\tonguetsumu.png",
+      "min_path": "./photos\\0 Featured\\tonguetsumu.min.png"
+    }
+  }
+}
