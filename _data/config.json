@@ -10,6 +10,13 @@
         "type": "photo",
         "width": 1200,
         "height": 1600,
+        "path": "./photos\\0 Featured\\yukata sakusa.png",
+        "min_path": "./photos\\0 Featured\\yukata sakusa.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1600,
         "path": "./photos\\0 Featured\\komori bday.png",
         "min_path": "./photos\\0 Featured\\komori bday.min.png"
       },
@@ -36,6 +43,13 @@
       "1 Illustrations"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1600,
+        "path": "./photos\\1 Illustrations\\yukata sakusa.png",
+        "min_path": "./photos\\1 Illustrations\\yukata sakusa.min.png"
+      },
       {
         "type": "photo",
         "width": 2250,

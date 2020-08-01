@@ -1,5 +1,6 @@
 {
   "order": [
+    "yukata sakusa.png",
     "svt left and right.png",
     "pokemon kghn.png",
     "fashion2.png",
@@ -17,6 +18,13 @@
     "witcher sakusa tavern 1.png"
   ],
   "dict": {
+    "yukata sakusa.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1600,
+      "path": "./photos\\1 Illustrations\\yukata sakusa.png",
+      "min_path": "./photos\\1 Illustrations\\yukata sakusa.min.png"
+    },
     "svt left and right.png": {
       "type": "photo",
       "width": 2250,
