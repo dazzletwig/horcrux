@@ -231,6 +231,13 @@
     "list": [
       {
         "type": "photo",
+        "width": 800,
+        "height": 2028,
+        "path": "./photos\\3 Comics\\1-detention (2).png",
+        "min_path": "./photos\\3 Comics\\1-detention (2).min.png"
+      },
+      {
+        "type": "photo",
         "width": 940,
         "height": 7200,
         "path": "./photos\\3 Comics\\snow fairy.png",
@@ -263,13 +270,6 @@
         "height": 1600,
         "path": "./photos\\3 Comics\\suitshoyocomic.png",
         "min_path": "./photos\\3 Comics\\suitshoyocomic.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 800,
-        "height": 2028,
-        "path": "./photos\\3 Comics\\1-detention (2).png",
-        "min_path": "./photos\\3 Comics\\1-detention (2).min.png"
       }
     ]
   }
