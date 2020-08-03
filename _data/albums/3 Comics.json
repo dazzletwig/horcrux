@@ -4,7 +4,8 @@
     "sendai frogs.png",
     "correct ba.png",
     "ushiken.png",
-    "suitshoyocomic.png"
+    "suitshoyocomic.png",
+    "1-detention (2).png"
   ],
   "dict": {
     "snow fairy.png": {
@@ -41,6 +42,13 @@
       "height": 1600,
       "path": "./photos\\3 Comics\\suitshoyocomic.png",
       "min_path": "./photos\\3 Comics\\suitshoyocomic.min.png"
+    },
+    "1-detention (2).png": {
+      "type": "photo",
+      "width": 800,
+      "height": 2028,
+      "path": "./photos\\3 Comics\\1-detention (2).png",
+      "min_path": "./photos\\3 Comics\\1-detention (2).min.png"
     }
   }
 }
