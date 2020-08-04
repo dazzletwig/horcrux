@@ -9,6 +9,13 @@
       {
         "type": "photo",
         "width": 1200,
+        "height": 1200,
+        "path": "./photos\\0 Featured\\bokuaka morning.png",
+        "min_path": "./photos\\0 Featured\\bokuaka morning.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
         "height": 1600,
         "path": "./photos\\0 Featured\\yukata sakusa.png",
         "min_path": "./photos\\0 Featured\\yukata sakusa.min.png"
@@ -43,6 +50,13 @@
       "1 Illustrations"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 1600,
+        "height": 1200,
+        "path": "./photos\\1 Illustrations\\witcher sakusa tavern.png",
+        "min_path": "./photos\\1 Illustrations\\witcher sakusa tavern.min.png"
+      },
       {
         "type": "photo",
         "width": 1200,
@@ -147,13 +161,6 @@
         "height": 2100,
         "path": "./photos\\1 Illustrations\\suitshoyo.png",
         "min_path": "./photos\\1 Illustrations\\suitshoyo.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1600,
-        "height": 1200,
-        "path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.png",
-        "min_path": "./photos\\1 Illustrations\\witcher sakusa tavern 1.min.png"
       }
     ]
   },
@@ -164,6 +171,27 @@
       "2 Sketches"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\bokuaka morning.png",
+        "min_path": "./photos\\2 Sketches\\bokuaka morning.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 2133,
+        "path": "./photos\\2 Sketches\\sakuatsu profiles.png",
+        "min_path": "./photos\\2 Sketches\\sakuatsu profiles.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\tonguetsumu.png",
+        "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
+      },
       {
         "type": "photo",
         "width": 1236,

@@ -1,11 +1,19 @@
 {
   "order": [
+    "bokuaka morning.png",
     "yukata sakusa.png",
     "komori bday.png",
     "tonguetsumu.png",
     "svt left and right.png"
   ],
   "dict": {
+    "bokuaka morning.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\0 Featured\\bokuaka morning.png",
+      "min_path": "./photos\\0 Featured\\bokuaka morning.min.png"
+    },
     "yukata sakusa.png": {
       "type": "photo",
       "width": 1200,

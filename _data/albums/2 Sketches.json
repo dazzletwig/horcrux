@@ -1,5 +1,8 @@
 {
   "order": [
+    "bokuaka morning.png",
+    "sakuatsu profiles.png",
+    "tonguetsumu.png",
     "pokemon sketches (2).png",
     "mastuhana greek.png",
     "mentors and rivals.png",
@@ -10,6 +13,27 @@
     "avatar u19 (Large).png"
   ],
   "dict": {
+    "bokuaka morning.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\bokuaka morning.png",
+      "min_path": "./photos\\2 Sketches\\bokuaka morning.min.png"
+    },
+    "sakuatsu profiles.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 2133,
+      "path": "./photos\\2 Sketches\\sakuatsu profiles.png",
+      "min_path": "./photos\\2 Sketches\\sakuatsu profiles.min.png"
+    },
+    "tonguetsumu.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\2 Sketches\\tonguetsumu.png",
+      "min_path": "./photos\\2 Sketches\\tonguetsumu.min.png"
+    },
     "pokemon sketches (2).png": {
       "type": "photo",
       "width": 1236,
