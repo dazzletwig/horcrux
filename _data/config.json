@@ -174,16 +174,16 @@
       {
         "type": "photo",
         "width": 1200,
-        "height": 1200,
-        "path": "./photos\\2 Sketches\\bokuaka morning.png",
-        "min_path": "./photos\\2 Sketches\\bokuaka morning.min.png"
+        "height": 2133,
+        "path": "./photos\\2 Sketches\\sakuatsu profiles.png",
+        "min_path": "./photos\\2 Sketches\\sakuatsu profiles.min.png"
       },
       {
         "type": "photo",
         "width": 1200,
-        "height": 2133,
-        "path": "./photos\\2 Sketches\\sakuatsu profiles.png",
-        "min_path": "./photos\\2 Sketches\\sakuatsu profiles.min.png"
+        "height": 1200,
+        "path": "./photos\\2 Sketches\\bokuaka morning.png",
+        "min_path": "./photos\\2 Sketches\\bokuaka morning.min.png"
       },
       {
         "type": "photo",
@@ -257,6 +257,20 @@
       "3 Comics"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\3 Comics\\learning choreo.png",
+        "min_path": "./photos\\3 Comics\\learning choreo.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1200,
+        "path": "./photos\\3 Comics\\jackasuke kiss.png",
+        "min_path": "./photos\\3 Comics\\jackasuke kiss.min.png"
+      },
       {
         "type": "photo",
         "width": 800,
