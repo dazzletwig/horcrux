@@ -1,7 +1,7 @@
 {
   "order": [
-    "learning choreo.png",
     "jackasuke kiss.png",
+    "learning choreo.png",
     "1-detention (2).png",
     "snow fairy.png",
     "sendai frogs.png",
@@ -10,19 +10,19 @@
     "suitshoyocomic.png"
   ],
   "dict": {
-    "learning choreo.png": {
-      "type": "photo",
-      "width": 1200,
-      "height": 1200,
-      "path": "./photos\\3 Comics\\learning choreo.png",
-      "min_path": "./photos\\3 Comics\\learning choreo.min.png"
-    },
     "jackasuke kiss.png": {
       "type": "photo",
       "width": 1200,
       "height": 1200,
       "path": "./photos\\3 Comics\\jackasuke kiss.png",
       "min_path": "./photos\\3 Comics\\jackasuke kiss.min.png"
+    },
+    "learning choreo.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1200,
+      "path": "./photos\\3 Comics\\learning choreo.png",
+      "min_path": "./photos\\3 Comics\\learning choreo.min.png"
     },
     "1-detention (2).png": {
       "type": "photo",

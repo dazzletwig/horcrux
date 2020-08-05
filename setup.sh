@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+eval `ssh-agent`
+ssh-add ~/.ssh/id_rsa_dt
+
 SCRIPT_PATH=$(dirname "$0")
 
 py -3 -m venv venv    

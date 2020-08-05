@@ -1,5 +1,6 @@
 {
   "order": [
+    "cave.png",
     "witcher sakusa tavern.png",
     "yukata sakusa.png",
     "svt left and right.png",
@@ -18,6 +19,13 @@
     "suitshoyo.png"
   ],
   "dict": {
+    "cave.png": {
+      "type": "photo",
+      "width": 2480,
+      "height": 3508,
+      "path": "./photos\\1 Illustrations\\cave.png",
+      "min_path": "./photos\\1 Illustrations\\cave.min.png"
+    },
     "witcher sakusa tavern.png": {
       "type": "photo",
       "width": 1600,

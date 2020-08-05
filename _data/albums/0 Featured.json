@@ -1,5 +1,6 @@
 {
   "order": [
+    "cave.png",
     "bokuaka morning.png",
     "yukata sakusa.png",
     "komori bday.png",
@@ -7,6 +8,13 @@
     "svt left and right.png"
   ],
   "dict": {
+    "cave.png": {
+      "type": "photo",
+      "width": 2480,
+      "height": 3508,
+      "path": "./photos\\0 Featured\\cave.png",
+      "min_path": "./photos\\0 Featured\\cave.min.png"
+    },
     "bokuaka morning.png": {
       "type": "photo",
       "width": 1200,

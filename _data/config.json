@@ -8,6 +8,13 @@
     "list": [
       {
         "type": "photo",
+        "width": 2480,
+        "height": 3508,
+        "path": "./photos\\0 Featured\\cave.png",
+        "min_path": "./photos\\0 Featured\\cave.min.png"
+      },
+      {
+        "type": "photo",
         "width": 1200,
         "height": 1200,
         "path": "./photos\\0 Featured\\bokuaka morning.png",
@@ -50,6 +57,13 @@
       "1 Illustrations"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 2480,
+        "height": 3508,
+        "path": "./photos\\1 Illustrations\\cave.png",
+        "min_path": "./photos\\1 Illustrations\\cave.min.png"
+      },
       {
         "type": "photo",
         "width": 1600,
@@ -261,15 +275,15 @@
         "type": "photo",
         "width": 1200,
         "height": 1200,
-        "path": "./photos\\3 Comics\\learning choreo.png",
-        "min_path": "./photos\\3 Comics\\learning choreo.min.png"
+        "path": "./photos\\3 Comics\\jackasuke kiss.png",
+        "min_path": "./photos\\3 Comics\\jackasuke kiss.min.png"
       },
       {
         "type": "photo",
         "width": 1200,
         "height": 1200,
-        "path": "./photos\\3 Comics\\jackasuke kiss.png",
-        "min_path": "./photos\\3 Comics\\jackasuke kiss.min.png"
+        "path": "./photos\\3 Comics\\learning choreo.png",
+        "min_path": "./photos\\3 Comics\\learning choreo.min.png"
       },
       {
         "type": "photo",
