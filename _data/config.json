@@ -194,6 +194,20 @@
     "list": [
       {
         "type": "photo",
+        "width": 1500,
+        "height": 800,
+        "path": "./photos\\2 Sketches\\sakuatsu atsume.png",
+        "min_path": "./photos\\2 Sketches\\sakuatsu atsume.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1200,
+        "height": 1500,
+        "path": "./photos\\2 Sketches\\patronus.png",
+        "min_path": "./photos\\2 Sketches\\patronus.min.png"
+      },
+      {
+        "type": "photo",
         "width": 1200,
         "height": 2133,
         "path": "./photos\\2 Sketches\\sakuatsu profiles.png",

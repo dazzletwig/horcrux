@@ -1,5 +1,7 @@
 {
   "order": [
+    "sakuatsu atsume.png",
+    "patronus.png",
     "sakuatsu profiles.png",
     "bokuaka morning.png",
     "tonguetsumu.png",
@@ -13,6 +15,20 @@
     "avatar u19 (Large).png"
   ],
   "dict": {
+    "sakuatsu atsume.png": {
+      "type": "photo",
+      "width": 1500,
+      "height": 800,
+      "path": "./photos\\2 Sketches\\sakuatsu atsume.png",
+      "min_path": "./photos\\2 Sketches\\sakuatsu atsume.min.png"
+    },
+    "patronus.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1500,
+      "path": "./photos\\2 Sketches\\patronus.png",
+      "min_path": "./photos\\2 Sketches\\patronus.min.png"
+    },
     "sakuatsu profiles.png": {
       "type": "photo",
       "width": 1200,
