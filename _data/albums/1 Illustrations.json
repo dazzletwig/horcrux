@@ -1,5 +1,6 @@
 {
   "order": [
+    "bw sakuatsu.png",
     "zither and flute.png",
     "cave.png",
     "witcher sakusa tavern.png",
@@ -20,6 +21,13 @@
     "suitshoyo.png"
   ],
   "dict": {
+    "bw sakuatsu.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1500,
+      "path": "./photos\\1 Illustrations\\bw sakuatsu.png",
+      "min_path": "./photos\\1 Illustrations\\bw sakuatsu.min.png"
+    },
     "zither and flute.png": {
       "type": "photo",
       "width": 1200,

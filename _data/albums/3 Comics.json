@@ -1,5 +1,6 @@
 {
   "order": [
+    "patronus.png",
     "jackasuke kiss.png",
     "learning choreo.png",
     "1-detention (2).png",
@@ -10,6 +11,13 @@
     "suitshoyocomic.png"
   ],
   "dict": {
+    "patronus.png": {
+      "type": "photo",
+      "width": 1200,
+      "height": 1500,
+      "path": "./photos\\3 Comics\\patronus.png",
+      "min_path": "./photos\\3 Comics\\patronus.min.png"
+    },
     "jackasuke kiss.png": {
       "type": "photo",
       "width": 1200,
