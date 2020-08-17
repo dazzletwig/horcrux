@@ -8,13 +8,6 @@
     "list": [
       {
         "type": "photo",
-        "width": 1200,
-        "height": 1500,
-        "path": "./photos\\0 Featured\\bw sakuatsu.png",
-        "min_path": "./photos\\0 Featured\\bw sakuatsu.min.png"
-      },
-      {
-        "type": "photo",
         "width": 2480,
         "height": 3508,
         "path": "./photos\\0 Featured\\cave.png",
@@ -57,6 +50,13 @@
       "1 Illustrations"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 2200,
+        "height": 3300,
+        "path": "./photos\\1 Illustrations\\yn sakuatsu yarou.png",
+        "min_path": "./photos\\1 Illustrations\\yn sakuatsu yarou.min.png"
+      },
       {
         "type": "photo",
         "width": 1200,
