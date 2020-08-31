@@ -1,5 +1,6 @@
 {
   "order": [
+    "sakuatsu soft poses.png",
     "sakuatsu atsume.png",
     "sakuatsu profiles.png",
     "bokuaka morning.png",
@@ -14,6 +15,13 @@
     "avatar u19 (Large).png"
   ],
   "dict": {
+    "sakuatsu soft poses.png": {
+      "type": "photo",
+      "width": 2100,
+      "height": 2100,
+      "path": "./photos\\2 Sketches\\sakuatsu soft poses.png",
+      "min_path": "./photos\\2 Sketches\\sakuatsu soft poses.min.png"
+    },
     "sakuatsu atsume.png": {
       "type": "photo",
       "width": 1500,

@@ -59,17 +59,17 @@
     "list": [
       {
         "type": "photo",
-        "width": 1500,
-        "height": 1500,
-        "path": "./photos\\1 Illustrations\\bacs.png",
-        "min_path": "./photos\\1 Illustrations\\bacs.min.png"
-      },
-      {
-        "type": "photo",
         "width": 1200,
         "height": 1800,
         "path": "./photos\\1 Illustrations\\alisa-narrow.png",
         "min_path": "./photos\\1 Illustrations\\alisa-narrow.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1500,
+        "height": 1500,
+        "path": "./photos\\1 Illustrations\\bacs.png",
+        "min_path": "./photos\\1 Illustrations\\bacs.min.png"
       },
       {
         "type": "photo",
@@ -234,6 +234,13 @@
       "2 Sketches"
     ],
     "list": [
+      {
+        "type": "photo",
+        "width": 2100,
+        "height": 2100,
+        "path": "./photos\\2 Sketches\\sakuatsu soft poses.png",
+        "min_path": "./photos\\2 Sketches\\sakuatsu soft poses.min.png"
+      },
       {
         "type": "photo",
         "width": 1500,
