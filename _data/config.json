@@ -8,6 +8,13 @@
     "list": [
       {
         "type": "photo",
+        "width": 2400,
+        "height": 1500,
+        "path": "./photos\\0 Featured\\ramen.png",
+        "min_path": "./photos\\0 Featured\\ramen.min.png"
+      },
+      {
+        "type": "photo",
         "width": 2200,
         "height": 3300,
         "path": "./photos\\0 Featured\\yn sakuatsu omae.png",
@@ -26,13 +33,6 @@
         "height": 3508,
         "path": "./photos\\0 Featured\\cave.png",
         "min_path": "./photos\\0 Featured\\cave.min.png"
-      },
-      {
-        "type": "photo",
-        "width": 1200,
-        "height": 1200,
-        "path": "./photos\\0 Featured\\bokuaka morning.png",
-        "min_path": "./photos\\0 Featured\\bokuaka morning.min.png"
       },
       {
         "type": "photo",
