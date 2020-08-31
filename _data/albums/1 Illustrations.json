@@ -1,5 +1,6 @@
 {
   "order": [
+    "sksnt.png",
     "alisa-narrow.png",
     "bacs.png",
     "kitsune.png",
@@ -26,6 +27,13 @@
     "suitshoyo.png"
   ],
   "dict": {
+    "sksnt.png": {
+      "type": "photo",
+      "width": 1500,
+      "height": 1800,
+      "path": "./photos\\1 Illustrations\\sksnt.png",
+      "min_path": "./photos\\1 Illustrations\\sksnt.min.png"
+    },
     "alisa-narrow.png": {
       "type": "photo",
       "width": 1200,
