@@ -1,7 +1,8 @@
 {
   "order": [
-    "ramen.png",
+    "bacs.png",
     "kitsune.png",
+    "ramen.png",
     "yn sakuatsu yarou.png",
     "bw sakuatsu.png",
     "zither and flute.png",
@@ -24,12 +25,12 @@
     "suitshoyo.png"
   ],
   "dict": {
-    "ramen.png": {
+    "bacs.png": {
       "type": "photo",
-      "width": 2400,
+      "width": 1500,
       "height": 1500,
-      "path": "./photos\\1 Illustrations\\ramen.png",
-      "min_path": "./photos\\1 Illustrations\\ramen.min.png"
+      "path": "./photos\\1 Illustrations\\bacs.png",
+      "min_path": "./photos\\1 Illustrations\\bacs.min.png"
     },
     "kitsune.png": {
       "type": "photo",
@@ -37,6 +38,13 @@
       "height": 1500,
       "path": "./photos\\1 Illustrations\\kitsune.png",
       "min_path": "./photos\\1 Illustrations\\kitsune.min.png"
+    },
+    "ramen.png": {
+      "type": "photo",
+      "width": 2400,
+      "height": 1500,
+      "path": "./photos\\1 Illustrations\\ramen.png",
+      "min_path": "./photos\\1 Illustrations\\ramen.min.png"
     },
     "yn sakuatsu yarou.png": {
       "type": "photo",

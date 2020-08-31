@@ -1,26 +1,26 @@
 {
   "order": [
-    "kitsune.png",
     "yn sakuatsu omae.png",
+    "kitsune.png",
     "cave.png",
     "bokuaka morning.png",
     "yukata sakusa.png",
     "svt left and right.png"
   ],
   "dict": {
-    "kitsune.png": {
-      "type": "photo",
-      "width": 1500,
-      "height": 1500,
-      "path": "./photos\\0 Featured\\kitsune.png",
-      "min_path": "./photos\\0 Featured\\kitsune.min.png"
-    },
     "yn sakuatsu omae.png": {
       "type": "photo",
       "width": 2200,
       "height": 3300,
       "path": "./photos\\0 Featured\\yn sakuatsu omae.png",
       "min_path": "./photos\\0 Featured\\yn sakuatsu omae.min.png"
+    },
+    "kitsune.png": {
+      "type": "photo",
+      "width": 1500,
+      "height": 1500,
+      "path": "./photos\\0 Featured\\kitsune.png",
+      "min_path": "./photos\\0 Featured\\kitsune.min.png"
     },
     "cave.png": {
       "type": "photo",
