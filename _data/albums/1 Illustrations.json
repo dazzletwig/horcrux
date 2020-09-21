@@ -1,6 +1,8 @@
 {
   "order": [
     "sksnt.png",
+    "pose-shrine.png",
+    "pose.png",
     "alisa-narrow.png",
     "bacs.png",
     "kitsune.png",
@@ -33,6 +35,20 @@
       "height": 1800,
       "path": "./photos\\1 Illustrations\\sksnt.png",
       "min_path": "./photos\\1 Illustrations\\sksnt.min.png"
+    },
+    "pose-shrine.png": {
+      "type": "photo",
+      "width": 1754,
+      "height": 2480,
+      "path": "./photos\\1 Illustrations\\pose-shrine.png",
+      "min_path": "./photos\\1 Illustrations\\pose-shrine.min.png"
+    },
+    "pose.png": {
+      "type": "photo",
+      "width": 1754,
+      "height": 2480,
+      "path": "./photos\\1 Illustrations\\pose.png",
+      "min_path": "./photos\\1 Illustrations\\pose.min.png"
     },
     "alisa-narrow.png": {
       "type": "photo",

@@ -66,6 +66,20 @@
       },
       {
         "type": "photo",
+        "width": 1754,
+        "height": 2480,
+        "path": "./photos\\1 Illustrations\\pose-shrine.png",
+        "min_path": "./photos\\1 Illustrations\\pose-shrine.min.png"
+      },
+      {
+        "type": "photo",
+        "width": 1754,
+        "height": 2480,
+        "path": "./photos\\1 Illustrations\\pose.png",
+        "min_path": "./photos\\1 Illustrations\\pose.min.png"
+      },
+      {
+        "type": "photo",
         "width": 1200,
         "height": 1800,
         "path": "./photos\\1 Illustrations\\alisa-narrow.png",
